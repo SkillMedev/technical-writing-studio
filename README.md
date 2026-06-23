@@ -1,8 +1,8 @@
 # Technical Writing Studio
 
-**Docs people actually read — READMEs, guides, changelogs, and specs.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**Ship the docs people read — READMEs, guides, changelogs, API references, and SOPs.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-Write technical content that lands. READMEs, developer blogs, changelogs, help docs, API references, process docs, and whitepapers — clear, accurate, and maintainable.
+Turn what you built into documentation people actually read. Generate a README, write tutorials and how-to guides, ship user-facing changelogs, stand up help articles and FAQs, design clear API references, document recurring work as SOPs, and produce authoritative whitepapers. Reach for this when a feature is done but undocumented and you need clear, accurate, maintainable docs fast — not a blank page.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
