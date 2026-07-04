@@ -9,7 +9,7 @@ Turn what you built into documentation people actually read. Generate a README, 
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/technical-writing-studio](https://skillme.dev/pack/technical-writing-studio) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/technical-writing-studio`
+- **With the skills CLI:** `npx skills add SkillMedev/technical-writing-studio`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
