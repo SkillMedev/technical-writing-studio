@@ -1,16 +1,17 @@
 # Technical Writing Studio
 
-**Ship the docs people read - READMEs, guides, changelogs, API references, and SOPs.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**Ship the docs people read - READMEs, guides, changelogs, API references, and SOPs.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-technical-writing-studio).
 
 Turn what you built into documentation people actually read. Generate a README, write tutorials and how-to guides, ship user-facing changelogs, stand up help articles and FAQs, design clear API references, document recurring work as SOPs, and produce authoritative whitepapers. Reach for this when a feature is done but undocumented and you need clear, accurate, maintainable docs fast - not a blank page.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/technical-writing-studio](https://skillme.dev/pack/technical-writing-studio) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/technical-writing-studio?utm_source=github&utm_medium=readme&utm_campaign=pack-technical-writing-studio) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add changelog-writer help-documentation api-design process-doc whitepapers --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/technical-writing-studio`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -25,4 +26,4 @@ Turn what you built into documentation people actually read. Generate a README, 
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-technical-writing-studio).
